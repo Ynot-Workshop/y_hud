@@ -55,7 +55,7 @@ CreateThread(function()
     SetMinimapComponent(15, true, 0)
     SetRadarBigmapEnabled(false, false)
     FlashMinimapDisplay()
-    SetRadarZoom(200)
+    SetRadarZoom(0)
 end)
 
 local function BlackBars()
