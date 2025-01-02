@@ -1,4 +1,4 @@
-lib.versionCheck('Ybox-Project/y_hud')
+lib.versionCheck('ynot-workshop/y_hud')
 
 AddEventHandler('ox_inventory:openedInventory', function(source)
     TriggerClientEvent('qbx_hud:client:hideHud', source)

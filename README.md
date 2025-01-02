@@ -4,7 +4,7 @@
 
 A beautiful and simple player & vehicle hud.
 
-Supports [y_nitro](https://github.com/Ybox-Project/y_nitro).
+Supports [y_nitro](https://github.com/ynot-workshop/y_nitro).
 
 # Features
 - player HUD includes:
